@@ -1,0 +1,17 @@
+{
+  "app_title": "المهام",
+  "task_list": "قائمه المهام",
+  "settings": "الاعدادات",
+  "language": "اللغه",
+  "arabic": "العربيه",
+  "mode": "الوضع",
+  "english": "الانجليزيه ",
+  "light": "فاتح",
+  "dark": "مظلم",
+  "select_Date": "اختيار التاريخ",
+  "add_New_Task": "اضف مهمه جديده",
+  "description": "الوصف",
+  "title": "العنوان",
+  "delete": "امسح",
+  "share": "مشاركه"
+}
